@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] C:\Users\MANIKANDAN\.android\build-cache\c113e927b8b852659d1f8f284a231a33e0b2906e\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\MANIKANDAN\.android\build-cache\f09d43f8a8b0a151e2b6b281e93c16445321462b\output\AndroidManifest.xml:10:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\MANIKANDAN\.android\build-cache\e17c5c281ea198869d05c423c26346bdd67e1732\output\AndroidManifest.xml:9:5-10:19
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\MANIKANDAN\.android\build-cache\a03a068e0678a52deb012b19767875f69993d911\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MANIKANDAN\.android\build-cache\20b6ccfd6a2590c2b0b3dbfe37dbe03e59871e0f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:10:9-49
+	android:theme
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.saratrozan.io.SplashActivity
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:18:13-49
+	android:configChanges
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:16:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.saratrozan.io.UrlConsoleActivity
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:25:9-28:52
+	android:screenOrientation
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:26:13-47
+activity#com.saratrozan.io.MainActivity
+ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:29:9-31:61
+	android:screenOrientation
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml:29:19-47
+uses-sdk
+INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\0d09c5b50bd44b3c0dd429c72b4b966a61f0af23\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\293dfdea9319ccb2884a17e440069db7e1f576d6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\9e9a788dee4769d1b164f85490995a6e609ebeb3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] C:\Users\MANIKANDAN\.android\build-cache\c113e927b8b852659d1f8f284a231a33e0b2906e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\MANIKANDAN\.android\build-cache\3fa6c07c03bb8ae05d4d1c9233618200defd5f3a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\MANIKANDAN\.android\build-cache\b58b4819af50825f6e8902228847f0c35fef6278\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\MANIKANDAN\.android\build-cache\f09d43f8a8b0a151e2b6b281e93c16445321462b\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\MANIKANDAN\.android\build-cache\e0a00d0aa9e29b245d69a60bb6ca77a35ae13f0d\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\MANIKANDAN\.android\build-cache\e17c5c281ea198869d05c423c26346bdd67e1732\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\f03af2db376ba7b58823a4d15adb401ac90bb77b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\c859d7e7b503e3944675b31c0375a75f19212014\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\32e3223274e70754831e5daf9b76509073688ffe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\289c476c68f33c9a15ee6de99d46b511e67a90e6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\d119ae6f1ea6e5a18585e499c7b59d797bf84d88\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\7bb7a9158baa5b3bf5d3f1b838d537468919d480\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\13907cb0482d32314bfea4f03a4b64fecadcdd4f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\7ed42fda4dafbd7fb4bb10d6a728fe3fbf647cb6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\MANIKANDAN\.android\build-cache\78b6cae91e9d8242c5a2a1d443d7f2cd5104e70a\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\MANIKANDAN\.android\build-cache\f82d373125d9f67a6de37206082099f5ca60c509\output\AndroidManifest.xml:20:5-22:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\MANIKANDAN\.android\build-cache\a03a068e0678a52deb012b19767875f69993d911\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MANIKANDAN\.android\build-cache\20b6ccfd6a2590c2b0b3dbfe37dbe03e59871e0f\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads_siva\ERPElastomers-master\app\src\main\AndroidManifest.xml

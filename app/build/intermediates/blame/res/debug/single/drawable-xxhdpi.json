@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_image.png",
+        "source": "D:\\Downloads_siva\\ERPElastomers-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_image.png"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher_background.png",
+        "source": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_refresh.png",
+        "source": "D:\\Downloads_siva\\ERPElastomers-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "D:\\Downloads_siva\\ERPElastomers-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dot.png",
+        "source": "D:\\Downloads_siva\\ERPElastomers-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dot.png"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\0d09c5b50bd44b3c0dd429c72b4b966a61f0af23\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\0d09c5b50bd44b3c0dd429c72b4b966a61f0af23\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\0d09c5b50bd44b3c0dd429c72b4b966a61f0af23\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\0d09c5b50bd44b3c0dd429c72b4b966a61f0af23\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Downloads_siva\\ERPElastomers-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MANIKANDAN\\.android\\build-cache\\32e3223274e70754831e5daf9b76509073688ffe\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\de.javakaffee\kryo-serializers\0.40\562cb61898302da4e8d3fd141c821edb1bc6b36d\kryo-serializers-0.40.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="562cb61898302da4e8d3fd141c821edb1bc6b36d">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\kryo-serializers-0.40_846e776163af52b5b43aeb4758cd51fbb2863365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\e17c5c281ea198869d05c423c26346bdd67e1732\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd52f9c37755941dd789f33fdae39b3ce3b4ca76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\minlog\1.3.0\ff07b5f1b01d2f92bb00a337f9a94873712f0827\minlog-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\minlog-1.3.0_daf83d3e1909217af4d56d1e1641b12c741b5e39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\c113e927b8b852659d1f8f284a231a33e0b2906e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c5ba9c86efe8e242e947176ff8d519c0d3842534">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9aabc125459f9dffca5ea03d8f2cb6727275bced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\reflectasm\1.11.3\8b102eed2f12412b254946811111ea48bc03a266\reflectasm-1.11.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8b102eed2f12412b254946811111ea48bc03a266">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\reflectasm-1.11.3_1a24faa4251c3219b5524355fb45da05b4b5ecc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\e0a00d0aa9e29b245d69a60bb6ca77a35ae13f0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78478a3a9fb9cd8bfe514a1b17cf6f8ddbf7f2a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\f09d43f8a8b0a151e2b6b281e93c16445321462b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5b24bda3fcb8eae221fd4e00ddb6448ed7efbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.5.1\272bab9a4e5994757044d1fc43ce480c8cb907a4\objenesis-2.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="272bab9a4e5994757044d1fc43ce480c8cb907a4">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\objenesis-2.5.1_4f6e4d0db8cade37de1d753afac27cb034df796f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\asm-5.0.4_541b317e0f1f90b3930d4c6960a5435f203bccd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\3fa6c07c03bb8ae05d4d1c9233618200defd5f3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa8168363c8af038418735e008e5f07a2bb779ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\b58b4819af50825f6e8902228847f0c35fef6278\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc803e12f68ab87427d486188271f55c8efe86da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.android\build-cache\a03a068e0678a52deb012b19767875f69993d911\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9edca01c4d7efcd7b7d06c1c433b660d6ab754b2">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c8badc28b266a79605197c136382d9b94063aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\kryo\4.0.1\5053899c213a6ce50a800d4902c5a9de49fe0098\kryo-4.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5053899c213a6ce50a800d4902c5a9de49fe0098">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\kryo-4.0.1_796bae54ebf38f93d5eab6d1688dcbb83e27cbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MANIKANDAN\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Downloads_siva\ERPElastomers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_56415fde56274c3a3b1dbaf92aa63994a9fa2899\classes.dex" />
+    </item>
+
+</items>
